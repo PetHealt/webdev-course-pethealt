@@ -1,0 +1,1 @@
+# Lección 6 — Proyecto: Tu Página de Perfil Personal
