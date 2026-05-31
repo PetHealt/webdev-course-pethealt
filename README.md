@@ -12,7 +12,7 @@
 <br>
 
 [![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-[![YouTube](https://img.shields.io/badge/Clases-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pethealt/webdev-course-pethealt)
 
 <br>
@@ -44,6 +44,12 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 
 > Replit es un editor de código **100% en línea y gratuito**. No necesitas instalar nada.
 
+<div align="center">
+<a href="https://replit.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit Logo" width="200"/>
+</a>
+</div>
+
 ### Pasos para empezar:
 
 **1.** Haz clic en el botón **"Abrir en Replit"** de cualquier lección  
@@ -57,98 +63,313 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 
 ---
 
-## Clases
+## Estructura del Repositorio
+
+> Todo el código fuente del curso está organizado en el siguiente repositorio público de GitHub:
+
+[![Ver Repositorio](https://img.shields.io/badge/📂%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pethealt/webdev-course-pethealt)
+
+```
+webdev-course-pethealt/
+│
+├── 📄 README.md                          ← Plan completo del curso (este documento)
+│
+│
+├── 📁 starter-files/                     ← Código BASE que usaremos cada clase en Replit
+│                                            Cada archivo tiene TODOs guiados paso a paso
+│
+├── 📁 completed-examples/                ← Código COMPLETO de la clase
+│                                           Úsalo como referencia si te atascas
+│
+└── 📁 scripts/                           ← Guiones de narración para cada video
+
+```
+
+> 💡 **¿Cómo usar el repositorio?**
+> - Empieza siempre por el archivo en **`starter-files/`** de la lección que estés viendo
+> - Si te atascas en algún TODO, consulta el mismo archivo en **`completed-examples/`**
+> - Los **`scripts/`** son los guiones que usaron los presentadores al grabar cada video
+
+<br>
+
+---
+
+## Secuencia de Lecciones
+
+> Haz clic en la miniatura de cada lección para ver el video en YouTube.
+
 
 ### 🟢 Lección 1 — ¿Qué es el Desarrollo Web?
 
-- **Descripción**: Descubre qué son los sitios web, para qué sirven HTML y CSS, y cómo trabajan juntos para crear páginas en internet.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link1)
-- **Conclusiones clave**:
-  - Un sitio web = Contenido (HTML) + Estilo (CSS).
-  - HTML define la estructura; CSS define la apariencia.
-  - ¡Cualquier persona puede crear una página web!
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion1)
+<div align="center">
+
+[![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+el+Desarrollo+Web?+%285+min%29)](https://www.youtube.com/watch?v=example-link1)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link1)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion1)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 5 minutos |
+| **Descripción** | Descubre qué son los sitios web, para qué sirven HTML y CSS, y cómo trabajan juntos para crear páginas en internet. |
+| **Aprenderás** | Qué es HTML y CSS · Cómo trabajan juntos · ¡Cualquier persona puede crear una página web! |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
+
+<br>
+
+<details>
+
+<summary> Ver conclusiones </summary>
+
+- Un sitio web = Contenido (HTML) + Estilo (CSS).
+
+- HTML define la estructura; CSS define la apariencia.
+
+- ¡Cualquier persona puede crear una página web!
+
+</details>
+
+<br>
 
 ---
 
 ### 🟢 Lección 2 — Estructura HTML Básica
 
-- **Descripción**: Aprende las etiquetas fundamentales de HTML y crea la estructura de tu primera página web.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link2)
-- **Conclusiones clave**:
-  - Todo documento HTML comienza con `<!DOCTYPE html>`.
-  - Las etiquetas básicas: `<html>`, `<head>`, `<body>`.
-  - Los elementos se abren y cierran: `<h1>Hola</h1>`.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion2) &nbsp; **¡No necesitas registrarte!**
+<div align="center">
+
+[![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+2:+Estructura+HTML+Básica+%288+min%29)](https://www.youtube.com/watch?v=example-link2)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link2)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion2)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 8 minutos |
+| **Descripción** | Aprende las etiquetas fundamentales de HTML y crea la estructura de tu primera página web. |
+| **Aprenderás** | `<!DOCTYPE html>` · Etiquetas `<html>`, `<head>`, `<body>` · Abrir y cerrar elementos |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
+
+<br>
+
+<details>
+
+<summary> Ver conclusiones </summary>
+
+- Todo documento HTML comienza con `<!DOCTYPE html>`.
+
+- Las etiquetas básicas: `<html>`, `<head>`, `<body>`.
+
+- Los elementos se abren y cierran: `<h1>Hola</h1>`.
+
+</details>
+
+<br>
 
 ---
 
 ### 🟢 Lección 3 — Elementos HTML Comunes
 
-- **Descripción**: Enriquece tu página agregando encabezados, párrafos, listas, imágenes y enlaces.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link3)
-- **Conclusiones clave**:
-  - Encabezados: `<h1>` hasta `<h6>` — del más grande al más pequeño.
-  - Listas: `<ul>` (sin orden) y `<ol>` (numerada).
-  - Imágenes: `<img src="foto.jpg" alt="descripción">` — ¡siempre incluye `alt`!
-  - Enlaces: `<a href="https://...">Haz clic aquí</a>`
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion3) &nbsp; **¡Comienza al instante!**
+<div align="center">
+
+[![Ver Lección 3](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+3:+Elementos+HTML+Comunes+%2810+min%29)](https://www.youtube.com/watch?v=example-link3)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link3)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion3)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 10 minutos |
+| **Descripción** | Enriquece tu página agregando encabezados, párrafos, listas, imágenes y enlaces. |
+| **Aprenderás** | Encabezados `<h1>`–`<h6>` · Listas `<ul>` y `<ol>` · Imágenes `<img>` · Enlaces `<a>` |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)|
+
+<br>
+
+<details>
+
+<summary> Ver conclusiones </summary>
+
+- Encabezados: `<h1>` hasta `<h6>` — del más grande al más pequeño.
+
+- Listas: `<ul>` (sin orden) y `<ol>` (numerada).
+
+- Imágenes: `<img src="foto.jpg" alt="descripción">` — ¡siempre incluye `alt`!
+
+- Enlaces: `<a href="https://...">Haz clic aquí</a>`
+
+</details>
+
+<br>
 
 ---
 
 ### 🟡 Lección 4 — Introducción a CSS
 
-- **Descripción**: Dale vida a tu HTML aplicando colores, fuentes y estilos con CSS. Aprende a conectar CSS con tu página HTML.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link4)
-- **Conclusiones clave**:
-  - CSS se escribe así: `selector { propiedad: valor; }`
-  - Cambiar color de fondo: `body { background-color: lightblue; }`
-  - Cambiar texto: `h1 { color: red; font-size: 32px; }`
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion4) &nbsp; **¡No es necesario registrarse!**
+<div align="center">
+
+[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+4:+Introducción+a+CSS+%2810+min%29)](https://www.youtube.com/watch?v=example-link4)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link4)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion4)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 10 minutos |
+| **Descripción** | Dale vida a tu HTML aplicando colores, fuentes y estilos con CSS. Aprende a conectar CSS con tu página HTML. |
+| **Aprenderás** | Sintaxis CSS · `background-color` · `color` · `font-size` · Vincular CSS con HTML |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)|
+
+<br>
+
+<details>
+
+<summary> Ver conclusiones </summary>
+
+- CSS se escribe así: `selector { propiedad: valor; }`
+
+- Cambiar color de fondo: `body { background-color: lightblue; }`
+
+- Cambiar texto: `h1 { color: red; font-size: 32px; }`
+
+</details>
+
+<br>
 
 ---
 
 ### 🟡 Lección 5 — Estilo Simple: Colores, Bordes y Centrado
 
-- **Descripción**: Aprende a centrar contenido, añadir bordes y aplicar colores para que tu página se vea profesional.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link5)
-- **Conclusiones clave**:
-  - Centrar texto: `text-align: center;`
-  - Agregar borde: `border: 2px solid black;`
-  - Espaciado interno: `padding: 10px;` — espacio dentro del elemento.
-  - Espaciado externo: `margin: 20px;` — espacio fuera del elemento.
-  <br>
-- **Práctica**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion5) &nbsp; **¡Comienza al instante!**
+<div align="center">
+
+[![Ver Lección 5](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+5:+Colores,+Bordes+y+Centrado+%288+min%29)](https://www.youtube.com/watch?v=example-link5)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link5)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion5)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 8 minutos |
+| **Descripción** | Aprende a centrar contenido, añadir bordes y aplicar colores para que tu página se vea profesional. |
+| **Aprenderás** | `text-align` · `border` · `padding` · `margin` |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)|
+
+<br>
+
+<details>
+
+<summary> Ver conclusiones </summary>
+
+- Centrar texto: `text-align: center;`
+
+- Agregar borde: `border: 2px solid black;`
+
+- Espaciado interno: `padding: 10px;` — espacio dentro del elemento.
+
+- Espaciado externo: `margin: 20px;` — espacio fuera del elemento.
+
+</details>
+
+<br>
 
 ---
 
 ### 🔵 Lección 6 — Proyecto: Tu Página de Perfil Personal
 
-- **Descripción**: Combina todo lo aprendido para construir tu propia página de perfil con foto, descripción, lista de intereses y enlaces.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link6)
-- **Conclusiones clave**:
-  - Estructurar la página con secciones usando `<div>`.
-  - Aplicar estilos consistentes en toda la página.
-  - Usar colores y fuentes para personalizar tu perfil.
-  <br>
-- **Proyecto**: [![Abrir en Replit](https://img.shields.io/badge/Abrir%20en-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion6-perfil) 👈 **¡Guarda y comparte tu creación!**
+<div align="center">
+
+[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Proyecto+Página+de+Perfil+%2815+min%29)](https://www.youtube.com/watch?v=example-link6)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link6)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion6-perfil)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 15 minutos |
+| **Descripción** | Combina todo lo aprendido para construir tu propia página de perfil con foto, descripción, lista de intereses y enlaces. |
+| **Aprenderás** | Estructurar con `<div>` · Estilos consistentes · Personalizar con colores y fuentes |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion6.md)|
+
+<br>
+
+<details>
+
+<summary> Ver conclusiones </summary>
+
+- Estructurar la página con secciones usando `<div>`.
+
+- Aplicar estilos consistentes en toda la página.
+
+- Usar colores y fuentes para personalizar tu perfil.
+
+</details>
+
+> **¡Guarda tu proyecto en Replit y comparte el enlace con tus compañeros!**
+
+<br>
 
 ---
 
 ### ⭐ Lección 7 — Consejos y Próximos Pasos
 
-- **Descripción**: Cierra el curso con las mejores prácticas, errores comunes a evitar y recursos para seguir aprendiendo desarrollo web.
-- **Link de la clase**: [Ver lección en YouTube](https://www.youtube.com/watch?v=example-link7)
-- **Consejos clave**:
-  - Valida tu HTML en [validator.w3.org](https://validator.w3.org).
-  - Explora la [documentación de MDN Web Docs](https://developer.mozilla.org/es/).
-  - Sigue practicando: cada página que construyas te hará mejor.
-  <br>
-- **Comparte tu página de perfil**: [Enviar mi proyecto](https://forms.gle/your-form)
+<div align="center">
+
+[![Ver Lección 7](https://placehold.co/640x360/1a1a2e/FFD700?text=+Lección+7:+Consejos+y+Próximos+Pasos+%285+min%29)](https://www.youtube.com/watch?v=example-link7)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link7)
+&nbsp;&nbsp;
+
+[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion7-repaso)
+
+</div>
+
+| | |
+|---|---|
+| **Duración** | 5 minutos |
+| **Descripción** | Cierra el curso con las mejores prácticas, errores comunes a evitar y recursos para seguir aprendiendo desarrollo web. |
+| **Aprenderás** | Validar HTML · Leer documentación · Recursos para continuar |
+| **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)|
+
+<br>
+
+<details>
+
+<br>
+
+<summary> Ver consejos clave</summary>
+
+- Valida tu HTML en [validator.w3.org](https://validator.w3.org).
+
+- Explora la [documentación de MDN Web Docs](https://developer.mozilla.org/es/).
+
+- Sigue practicando: cada página que construyas te hará mejor.
+
+</details>
+
+> 🔗 **Comparte tu proyecto final**: [Enviar mi proyecto](https://forms.gle/your-form)
 
 <br>
 
@@ -156,14 +377,14 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 
 ## Resumen de Lecciones y Prácticas
 
-| # | Tema | Duración | Práctica |
+| # | Tema | Duración | Práctica en Replit |
 |:---:|---|:---:|:---:|
 | 1 | ¿Qué es el Desarrollo Web? | 5 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion1) |
 | 2 | Estructura HTML Básica | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion2) |
 | 3 | Elementos HTML Comunes | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion3) |
 | 4 | Introducción a CSS | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion4) |
-| 5 | Estilo Simple | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion5) |
-| 6 | Proyecto: Página de Perfil | 15 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion6-perfil) |
+| 5 | Estilo Simple: Colores, Bordes y Centrado | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion5) |
+| 6 | Proyecto: Página de Perfil Personal | 15 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion6-perfil) |
 | 7 | Consejos y Próximos Pasos | 5 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion7-repaso) |
 | | **Total** | **~60 min** | |
 
@@ -179,6 +400,8 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 - **Seguir aprendiendo**: [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - **Hashtag**: `#WebDevParaPrincipiantes`
 
+<br>
+
 ---
 
 <div align="center">
@@ -189,7 +412,8 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 
 🏆 Completaste **7 lecciones** · **~60 minutos** de aprendizaje · **Tu primera página web**
 
-¡Ya conoces los fundamentos que mueven la web! Sigue practicando y construyendo. 🚀
+¡Ya conoces los fundamentos que mueven la web!  
+Sigue practicando, sigue construyendo. El límite es tu imaginación. 🚀
 
 [![Seguir aprendiendo](https://img.shields.io/badge/Seguir%20aprendiendo-freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 [![Documentación](https://img.shields.io/badge/Documentación-MDN%20Web%20Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/es/)
@@ -200,7 +424,7 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 
 ## Presentado por:
 
-### 🐾  *PetHealt*
+### 🐾 Equipo: *PetHealt*
 
 👑 **Team Leader**
 
