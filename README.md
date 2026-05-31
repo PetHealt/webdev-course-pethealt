@@ -11,7 +11,7 @@
 
 <br>
 
-[![Replit](https://img.shields.io/badge/Practicar%20en-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
+[![JDoodle](https://img.shields.io/badge/Practicar%20en-JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com)
 [![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pethealt/webdev-course-pethealt)
 
@@ -33,29 +33,29 @@ Este curso te enseña a crear sitios web desde cero usando **HTML y CSS**. Está
 |---|---|
 | **Prerrequisitos** | Ninguno |
 | **Herramientas** | Solo tu navegador (Chrome, Firefox, Safari, Edge) |
-| **Para Programar** | [Replit](https://replit.com) — gratuito y en línea |
+| **Para Programar** | [JDoodle](https://www.jdoodle.com) — gratuito y en línea |
 | **Repositorio** | [github.com/pethealt/webdev-course-pethealt](https://github.com/pethealt/webdev-course-pethealt) |
 
 <br>
 
 ---
 
-## 🚀 ¿Cómo usar Replit? (Guía rápida)
+## 🚀 ¿Cómo usar JDoodle? (Guía rápida)
 
-> Replit es un editor de código **100% en línea y gratuito**. No necesitas instalar nada.
+> JDoodle es un editor de código **100% en línea y gratuito**. No necesitas instalar nada.
 
 <div align="center">
-<a href="https://replit.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit Logo" width="200"/>
+<a href="https://www.jdoodle.com">
+<img src="https://www.jdoodle.com/assets/JD_logo_colour-94056f51.webp" alt="JDoodle Logo" width="250"/>
 </a>
 </div>
 
 ### Pasos para empezar:
 
-**1.** Haz clic en el botón **"Abrir en Replit"** de cualquier lección  
+**1.** Haz clic en el botón **"Practicar en JDoodle"** de cualquier lección  
 **2.** Verás el código de ejemplo ya cargado en pantalla  
-**3.** Presiona el botón verde **Run** (▶) para ver tu página web  
-**4.** ¡Modifica el código y vuelve a presionar Run para ver los cambios!
+**3.** Presiona el botón **Execute** (▶) para ver tu página web  
+**4.** ¡Modifica el código y vuelve a presionar Execute para ver los cambios!
 
 > 💡 **Tip**: No necesitas crear cuenta para ver el código. Si quieres guardar tu trabajo, puedes registrarte gratis con tu correo o cuenta de Google.
 
@@ -75,7 +75,7 @@ webdev-course-pethealt/
 ├── 📄 README.md                          ← Plan completo del curso (este documento)
 │
 │
-├── 📁 starter-files/                     ← Código BASE que usaremos cada clase en Replit
+├── 📁 starter-files/                     ← Código BASE que usaremos cada clase en JDoodle
 │                                            Cada archivo tiene TODOs guiados paso a paso
 │
 ├── 📁 completed-examples/                ← Código COMPLETO de la clase
@@ -108,7 +108,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link1)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion1)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -146,7 +146,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link2)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion2)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -184,7 +184,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link3)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion3)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -224,7 +224,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link4)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion4)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -262,7 +262,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link5)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion5)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -302,7 +302,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link6)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion6-perfil)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -327,7 +327,7 @@ webdev-course-pethealt/
 
 </details>
 
-> **¡Guarda tu proyecto en Replit y comparte el enlace con tus compañeros!**
+> **¡Guarda tu proyecto en JDoodle y comparte el enlace con tus compañeros!**
 
 <br>
 
@@ -342,7 +342,7 @@ webdev-course-pethealt/
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link7)
 &nbsp;&nbsp;
 
-[![Abrir en Replit](https://img.shields.io/badge/💻%20Abrir%20en%20Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion7-repaso)
+[![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
 
 </div>
 
@@ -377,15 +377,15 @@ webdev-course-pethealt/
 
 ## Resumen de Lecciones y Prácticas
 
-| # | Tema | Duración | Práctica en Replit |
+| # | Tema | Duración | Práctica en JDoodle |
 |:---:|---|:---:|:---:|
-| 1 | ¿Qué es el Desarrollo Web? | 5 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion1) |
-| 2 | Estructura HTML Básica | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion2) |
-| 3 | Elementos HTML Comunes | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion3) |
-| 4 | Introducción a CSS | 10 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion4) |
-| 5 | Estilo Simple: Colores, Bordes y Centrado | 8 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion5) |
-| 6 | Proyecto: Página de Perfil Personal | 15 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion6-perfil) |
-| 7 | Consejos y Próximos Pasos | 5 min | [![Replit](https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@pethealt/leccion7-repaso) |
+| 1 | ¿Qué es el Desarrollo Web? | 5 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 2 | Estructura HTML Básica | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 3 | Elementos HTML Comunes | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 4 | Introducción a CSS | 10 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 5 | Estilo Simple: Colores, Bordes y Centrado | 8 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 6 | Proyecto: Página de Perfil Personal | 15 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
+| 7 | Consejos y Próximos Pasos | 5 min | [![JDoodle](https://img.shields.io/badge/-JDoodle-0A7C6E?style=flat-square&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding) |
 | | **Total** | **~60 min** | |
 
 <br>
