@@ -357,8 +357,6 @@ webdev-course-pethealt/
 
 <details>
 
-<br>
-
 <summary> Ver consejos clave</summary>
 
 - Valida tu HTML en [validator.w3.org](https://validator.w3.org).
