@@ -1,12 +1,12 @@
-# Lección 5 — Estilo Simple: Colores, Bordes y Centrado
+# Lección 5 — Estilo Simple: Tipografía, Bordes y Centrado
 
 ## Introducción (1 min)
 
 Hola, bienvenidos de nuevo al curso de Fundamentos de Desarrollo Web.
 
-En la lección anterior aprendiste los conceptos básicos de CSS: colores, fuentes y cómo conectar CSS con HTML.
+En la lección anterior aprendiste los conceptos básicos de CSS: colores y cómo conectar CSS con HTML.
 
-Hoy vamos un paso más adelante. Aprenderás a controlar los espacios alrededor de los elementos, a agregar bordes y a centrar contenido en pantalla.
+Hoy vamos un paso más adelante. Aprenderás a cambiar la tipografía de tu página, a controlar los espacios alrededor de los elementos, a agregar bordes y a centrar contenido en pantalla.
 
 Estas herramientas son las que hacen que una página pase de verse amateur a verse realmente profesional.
 
@@ -16,7 +16,57 @@ Abre el JDoodle de esta lección y continuemos.
 
 ---
 
-## Desarrollo (6 min)
+## Desarrollo (8 min)
+
+### Tipografía con fuentes del sistema
+
+La forma más sencilla de cambiar la letra es con `font-family`, usando fuentes que ya tiene instaladas el sistema operativo:
+
+```css
+body {
+  font-family: Arial, sans-serif;
+}
+```
+
+Siempre se escribe más de una fuente separadas por coma. Si el navegador no tiene la primera, usa la siguiente. `sans-serif` es un tipo genérico que garantiza que siempre habrá una fuente disponible.
+
+Algunas fuentes del sistema populares:
+
+```css
+font-family: Arial, sans-serif;
+font-family: Georgia, serif;
+font-family: 'Courier New', monospace;
+font-family: Verdana, sans-serif;
+```
+
+<br>
+
+### Tipografía con Google Fonts
+
+Google Fonts permite usar cientos de fuentes gratuitas y modernas directamente desde internet. Solo necesitas agregar un `<link>` en el `<head>` de tu HTML.
+
+**Paso 1:** Ve a [fonts.google.com](https://fonts.google.com), elige una fuente y copia el `<link>` que te dan.
+
+**Paso 2:** Pégalo en el `<head>` de tu `index.html`, antes del link a `styles.css`:
+
+```html
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+```
+
+**Paso 3:** Úsala en `styles.css` igual que cualquier otra fuente:
+
+```css
+body {
+  font-family: 'Poppins', sans-serif;
+}
+```
+
+El nombre de la fuente debe ir entre comillas si tiene más de una palabra, como `'Poppins'` o `'Open Sans'`.
+
+<br>
 
 ### Centrar texto
 
@@ -48,7 +98,7 @@ Esta propiedad tiene tres partes:
 - `solid` — el estilo (puede ser `solid`, `dashed` o `dotted`).
 - `black` — el color del borde.
 
-También puedes redondear las esquinas del borde con `border-radius`:
+También puedes redondear las esquinas con `border-radius`:
 
 ```css
 p {
@@ -71,25 +121,6 @@ p {
 
 Piensa en él como el relleno interno. Le da aire al contenido para que no quede pegado al borde.
 
-Puedes controlar cada lado por separado:
-
-```css
-p {
-  padding-top: 10px;
-  padding-right: 20px;
-  padding-bottom: 10px;
-  padding-left: 20px;
-}
-```
-
-O en una sola línea (arriba, derecha, abajo, izquierda):
-
-```css
-p {
-  padding: 10px 20px 10px 20px;
-}
-```
-
 <br>
 
 ### Margin: espacio exterior
@@ -111,7 +142,7 @@ div {
 }
 ```
 
-Esto le dice al navegador: "arriba y abajo no hay margen, pero a los lados que se distribuya automáticamente", lo que centra el bloque en la página.
+Esto le dice al navegador: "a los lados que se distribuya automáticamente", lo que centra el bloque en la página.
 
 <br>
 
@@ -123,13 +154,14 @@ Esto le dice al navegador: "arriba y abajo no hay margen, pero a los lados que s
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mi tarjeta</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+    <title>Mi tarjeta</title>
   </head>
   <body>
     <div class="tarjeta">
       <h1>Mi tarjeta</h1>
-      <p>Esta es una tarjeta centrada con bordes redondeados y espaciado.</p>
+      <p>Una tarjeta centrada con fuente de Google Fonts, bordes redondeados y espaciado.</p>
     </div>
   </body>
 </html>
@@ -140,7 +172,7 @@ Esto le dice al navegador: "arriba y abajo no hay margen, pero a los lados que s
 ```css
 body {
   background-color: #f4f4f4;
-  font-family: Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .tarjeta {
@@ -163,7 +195,7 @@ p {
 }
 ```
 
-Observa cómo el HTML queda limpio y los estilos viven completamente en `styles.css`. El `<div>` con clase `tarjeta` agrupa el contenido y le da una presentación limpia y profesional.
+Observa cómo el HTML queda limpio y los estilos viven completamente en `styles.css`.
 
 <br>
 
@@ -178,11 +210,12 @@ Abre el JDoodle de esta lección. Verás dos archivos: `index.html` y `styles.cs
 En `index.html` crea un `<div class="tarjeta">` con tu contenido.
 En `styles.css` aplica:
 
-1. Un `<div>` centrado con `margin: 0 auto` y un `width` definido.
+1. Una fuente de Google Fonts que te guste.
 2. Un borde con `border-radius` para esquinas redondeadas.
 3. `padding` suficiente para que el contenido tenga espacio interior.
+4. Centra la tarjeta con `margin: 0 auto` y un `width` definido.
 
-Presiona **Execute** y verifica que la tarjeta se vea centrada y con buen espaciado.
+Presiona **Execute** y verifica que la tarjeta se vea centrada y con buena tipografía.
 
 <br>
 
@@ -192,7 +225,7 @@ Presiona **Execute** y verifica que la tarjeta se vea centrada y con buen espaci
 
 Excelente trabajo.
 
-Hoy aprendiste a centrar contenido con `text-align`, a agregar bordes con `border` y `border-radius`, y a controlar el espaciado con `padding` y `margin`.
+Hoy aprendiste a cambiar tipografías con fuentes del sistema y con Google Fonts, a agregar bordes con `border` y `border-radius`, y a controlar el espaciado con `padding` y `margin`.
 
 Estas propiedades son fundamentales en cualquier diseño web y las usarás constantemente.
 

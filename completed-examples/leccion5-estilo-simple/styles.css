@@ -1,0 +1,26 @@
+/* body: fondo general y fuente de Google Fonts para toda la página */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Poppins', sans-serif; /* fuente importada desde Google Fonts */
+}
+
+/* .card: contenedor centrado con borde y espaciado */
+.card {
+    background-color: white;
+    width: 500px;
+    margin: 30px auto;   /* auto en los lados centra el bloque horizontalmente */
+    padding: 20px;
+    border: 2px solid #cccccc;
+    border-radius: 12px; /* redondea las esquinas del borde */
+}
+
+/* h1: encabezado centrado */
+h1 {
+    text-align: center;
+    color: #222222;
+}
+
+/* h2: subtítulo con color destacado */
+h2 {
+    color: #4a90d9;
+}

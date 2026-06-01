@@ -1,0 +1,12 @@
+/* .contenedor: centra el contenido con ancho máximo y padding */
+.contenedor {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+/* .destacado: estilos que antes estaban inline en el HTML */
+.destacado {
+    color: red;
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+/* body: aplica estilos a toda la página */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+/* h1: estiliza el encabezado principal */
+h1 {
+    color: darkblue;
+    font-size: 36px;
+}
+
+/* p: estiliza todos los párrafos a la vez */
+p {
+    color: #333333;
+    font-size: 18px;
+}
