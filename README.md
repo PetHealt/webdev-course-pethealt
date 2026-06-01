@@ -118,7 +118,7 @@ webdev-course-pethealt/
 | **Descripción** | Descubre qué son los sitios web, para qué sirven HTML y CSS, y cómo trabajan juntos para crear páginas en internet. |
 | **Aprenderás** | Qué es HTML y CSS · Cómo trabajan juntos · ¡Cualquier persona puede crear una página web! |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion1-hola-mundo)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion1-hola-mundo)|
 
 <br>
 
@@ -157,7 +157,7 @@ webdev-course-pethealt/
 | **Descripción** | Aprende las etiquetas fundamentales de HTML y crea la estructura de tu primera página web. |
 | **Aprenderás** | `<!DOCTYPE html>` · Etiquetas `<html>`, `<head>`, `<body>` · Abrir y cerrar elementos |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion2-estructura-basica)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion2-estructura-basica)|
 
 <br>
 
@@ -196,7 +196,7 @@ webdev-course-pethealt/
 | **Descripción** | Enriquece tu página agregando encabezados, párrafos, listas, imágenes y enlaces. |
 | **Aprenderás** | Encabezados `<h1>`–`<h6>` · Listas `<ul>` y `<ol>` · Imágenes `<img>` · Enlaces `<a>` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion3.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion3-elementos-html)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion3-elementos-html)|
 
 <br>
 
@@ -237,7 +237,7 @@ webdev-course-pethealt/
 | **Descripción** | Dale vida a tu HTML aplicando colores, fuentes y estilos con CSS. Aprende a conectar CSS con tu página HTML. |
 | **Aprenderás** | Sintaxis CSS · `background-color` · `color` · `font-size` · Vincular CSS con HTML |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion4-introduccion-estilos)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion4-introduccion-estilos)|
 
 <br>
 
@@ -276,7 +276,7 @@ webdev-course-pethealt/
 | **Descripción** | Aprende a cambiar tipografías con fuentes del sistema y Google Fonts, a añadir bordes y a centrar contenido para que tu página se vea profesional. |
 | **Aprenderás** | `font-family` · Google Fonts · `text-align` · `border` · `padding` · `margin` |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion5.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion5-estilo-simple)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion5-estilo-simple)|
 
 <br>
 <details>
@@ -314,7 +314,7 @@ webdev-course-pethealt/
 | **Descripción** | Combina todo lo aprendido para construir tu propia página de perfil con foto, descripción, lista de intereses y enlaces. |
 | **Aprenderás** | Estructurar con `<div>` · Estilos consistentes · Personalizar con colores y fuentes |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion6.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion6-proyecto-final)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion6-proyecto-final)|
 
 <br>
 
@@ -355,7 +355,7 @@ webdev-course-pethealt/
 | **Descripción** | Cierra el curso con las mejores prácticas, errores comunes a evitar y recursos para seguir aprendiendo desarrollo web. |
 | **Aprenderás** | Validar HTML · Leer documentación · Recursos para continuar |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion7.md)|
-| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion7-buenas-practicas)|
+| **Starter File** | [![Ver Archivos](https://img.shields.io/badge/📄%20Ver%20Archivos-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](starter-files/leccion7-buenas-practicas)|
 
 <br>
 
@@ -371,7 +371,7 @@ webdev-course-pethealt/
 
 </details>
 
-> 🔗 **Comparte tu proyecto final**: [Enviar mi proyecto](https://forms.office.com/r/Bm8xebusqJ)
+> 🔗 **Comparte tu proyecto final**: [Enviar mi proyecto](https://forms.office.com/r/tCcECS3fBW)
 
 <br>
 
