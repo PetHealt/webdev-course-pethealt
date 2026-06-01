@@ -1,0 +1,58 @@
+/* ============================================
+    LECCIÓN 6: Proyecto — Página de Perfil Personal
+    Curso: Fundamentos de Desarrollo Web
+    Practicar en: https://www.jdoodle.com
+   ============================================ */
+
+/* 🏆 Reto 6: Tu página de perfil completa */
+
+/* 1. Estiliza el fondo y la fuente general de la página */
+body {
+    margin: 0;
+    padding: 20px;
+}
+
+/* 2. Centra el contenedor del perfil y dale fondo blanco, padding y bordes redondeados */
+.perfil {
+
+}
+
+/* 3. Centra el contenido del encabezado */
+.encabezado {
+
+}
+
+/* 4. Dale forma circular a la foto y agrégale un borde de color */
+.encabezado img {
+
+}
+
+/* 5. Estiliza el nombre h1 dentro del encabezado */
+.encabezado h1 {
+
+}
+
+/* 6. Estiliza el subtítulo con un color suave y fuente más pequeña */
+.subtitulo {
+
+}
+
+/* 7. Agrega separación entre secciones */
+.seccion {
+
+}
+
+/* 8. Estiliza los títulos h2 de cada sección */
+.seccion h2 {
+
+}
+
+/* 9. Estiliza los enlaces como botones */
+.seccion a {
+
+}
+
+/* 10. Agrega un efecto al pasar el mouse sobre los botones */
+.seccion a:hover {
+
+}
