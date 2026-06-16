@@ -181,9 +181,9 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 3](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+3:+Elementos+HTML+Comunes+%2810+min%29)](https://www.youtube.com/watch?v=example-link3)
+[![Ver Lección 3](https://img.youtube.com/vi/VWf38iFWd_U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VWf38iFWd_U)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link3)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VWf38iFWd_U)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
