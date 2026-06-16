@@ -222,7 +222,7 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+4:+Introducción+a+CSS+%2810+min%29)](https://www.youtube.com/watch?v=Xm4Nnb1fh0k)
+[![Ver Lección 4](https://img.youtube.com/vi/Xm4Nnb1fh0k/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xm4Nnb1fh0k)
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Xm4Nnb1fh0k)
 
