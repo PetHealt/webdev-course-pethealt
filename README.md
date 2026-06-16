@@ -222,9 +222,9 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+4:+Introducción+a+CSS+%2810+min%29)](https://www.youtube.com/watch?v=example-link4)
+[![Ver Lección 4](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+4:+Introducción+a+CSS+%2810+min%29)]([https://www.youtube.com/watch?v=example-link4](https://www.youtube.com/watch?v=Xm4Nnb1fh0k))
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link4)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=example-link4](https://www.youtube.com/watch?v=Xm4Nnb1fh0k))
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
