@@ -103,9 +103,11 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+el+Desarrollo+Web?+%285+min%29)](https://www.youtube.com/watch?v=example-link1)
+<a href="https://youtu.be/xBrkAzjo-LE">
+  <img src="https://img.youtube.com/vi/xBrkAzjo-LE/maxresdefault.jpg" width="640" height="360">
+</a><br>
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xBrkAzjo-LE)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
