@@ -185,7 +185,9 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 3](https://img.youtube.com/vi/VWf38iFWd_U/maxresdefault.jpg)](https://www.youtube.com/watch?v=VWf38iFWd_U)
+<a href="https://youtu.be/VWf38iFWd_U">
+  <img src="https://img.youtube.com/vi/VWf38iFWd_U/maxresdefault.jpg" width="640" height="360">
+</a><br>
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VWf38iFWd_U)
 &nbsp;&nbsp;
@@ -226,7 +228,9 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 4](https://img.youtube.com/vi/Xm4Nnb1fh0k/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xm4Nnb1fh0k)
+<a href="https://youtu.be/VWf38iFWd_U">
+  <img src="https://img.youtube.com/vi/Xm4Nnb1fh0k/maxresdefault.jpg" width="640" height="360">
+</a><br>
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Xm4Nnb1fh0k)
 
