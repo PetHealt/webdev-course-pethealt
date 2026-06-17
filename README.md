@@ -116,7 +116,7 @@ webdev-course-pethealt/
 
 | | |
 |---|---|
-| **Duración** | 5 minutos |
+| **Duración** | 3 minutos |
 | **Descripción** | Descubre qué son los sitios web, para qué sirven HTML y CSS, y cómo trabajan juntos para crear páginas en internet. |
 | **Aprenderás** | Qué es HTML y CSS · Cómo trabajan juntos · ¡Cualquier persona puede crear una página web! |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion1.md)|
@@ -234,7 +234,7 @@ webdev-course-pethealt/
 
 | | |
 |---|---|
-| **Duración** | 10 minutos |
+| **Duración** | 6 minutos |
 | **Descripción** | Dale vida a tu HTML aplicando colores, fuentes y estilos con CSS. Aprende a conectar CSS con tu página HTML. |
 | **Aprenderás** | Sintaxis CSS · `background-color` · `color` · `font-size` · Vincular CSS con HTML |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion4.md)|
