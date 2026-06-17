@@ -12,7 +12,7 @@
 <br>
 
 [![JDoodle](https://img.shields.io/badge/Practicar%20en-JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com)
-[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TuCanal)
+[![YouTube](https://img.shields.io/badge/Videos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pethealt/webdev-course-pethealt)
 
 <br>
@@ -105,7 +105,7 @@ webdev-course-pethealt/
 
 [![Ver Lección 1](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+1:+¿Qué+es+el+Desarrollo+Web?+%285+min%29)](https://www.youtube.com/watch?v=example-link1)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link1)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -144,7 +144,7 @@ webdev-course-pethealt/
 
 [![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+2:+Estructura+HTML+Básica+%288+min%29)](https://www.youtube.com/watch?v=example-link2)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link2)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -262,7 +262,7 @@ webdev-course-pethealt/
 
 [![Ver Lección 5](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+5:+Tipografía,+Bordes+y+Centrado+%288+min%29)](https://www.youtube.com/watch?v=example-link5)
  
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link5)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
 &nbsp;&nbsp;
  
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -300,7 +300,7 @@ webdev-course-pethealt/
 
 [![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Proyecto+Página+de+Perfil+%2815+min%29)](https://www.youtube.com/watch?v=example-link6)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link6)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -341,7 +341,7 @@ webdev-course-pethealt/
 
 [![Ver Lección 7](https://placehold.co/640x360/1a1a2e/FFD700?text=+Lección+7:+Consejos+y+Próximos+Pasos+%285+min%29)](https://www.youtube.com/watch?v=example-link7)
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=example-link7)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
