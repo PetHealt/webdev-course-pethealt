@@ -144,9 +144,11 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 2](https://placehold.co/640x360/1a1a2e/ffffff?text=+Lección+2:+Estructura+HTML+Básica+%288+min%29)](https://www.youtube.com/watch?v=example-link2)
+<a href="https://youtu.be/T2aex80SmtY">
+  <img src="https://img.youtube.com/vi/T2aex80SmtY/maxresdefault.jpg" width="640" height="360">
+</a><br>
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T2aex80SmtY)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -155,7 +157,7 @@ webdev-course-pethealt/
 
 | | |
 |---|---|
-| **Duración** | 8 minutos |
+| **Duración** | 4 minutos |
 | **Descripción** | Aprende las etiquetas fundamentales de HTML y crea la estructura de tu primera página web. |
 | **Aprenderás** | `<!DOCTYPE html>` · Etiquetas `<html>`, `<head>`, `<body>` · Abrir y cerrar elementos |
 | **Script del Video** | [![Ver Guión](https://img.shields.io/badge/📄%20Ver%20Guión-4A90D9?style=for-the-badge&logo=markdown&logoColor=white)](scripts/guion-leccion2.md)|
