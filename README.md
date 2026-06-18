@@ -187,7 +187,7 @@ webdev-course-pethealt/
 <div align="center">
 
 <a href="https://youtu.be/fKbf7g3djjM">
-  <img src="https://img.youtube.com/vi/fKbf7g3djjM/maxresdefault.jpg" width="640" height="360">
+  <img src="https://img.youtube.com/vi/fKbf7g3djjM/hqdefault.jpg" width="640" height="360">
 </a><br>
 
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fKbf7g3djjM)
