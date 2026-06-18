@@ -358,9 +358,11 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 7](https://placehold.co/640x360/1a1a2e/FFD700?text=+Lección+7:+Consejos+y+Próximos+Pasos+%285+min%29)](https://www.youtube.com/watch?v=example-link7)
+<a href="https://www.youtube.com/watch?v=gxR7AHnIDss&t=1s">
+  <img src="https://img.youtube.com/vi/gxR7AHnIDss/hqdefault.jpg" width="640" height="360">
+</a><br>
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=gxR7AHnIDss&t=1s)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
@@ -462,6 +464,6 @@ Sigue practicando, sigue construyendo. El límite es tu imaginación. 🚀
 
 > **Universidad Peruana de Ciencias Aplicadas**  
 > Carrera de Ingeniería de Software  
-> **202520** &nbsp;·&nbsp; **1ASI0730** Aplicaciones Web &nbsp;·&nbsp; **10203**
+> **202601** &nbsp;·&nbsp; **1ASI0730** Aplicaciones Web &nbsp;·&nbsp; **10203**
 
 </div>
