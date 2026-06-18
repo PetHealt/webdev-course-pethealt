@@ -319,8 +319,6 @@ webdev-course-pethealt/
   <img src="https://img.youtube.com/vi/cn9pf7FGflk/hqdefault.jpg" width="640" height="360">
 </a><br>
 
-[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Proyecto+Página+de+Perfil+%2815+min%29)](https://www.youtube.com/watch?v=cn9pf7FGflk)
-
 [![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cn9pf7FGflk)
 &nbsp;&nbsp;
 
