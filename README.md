@@ -315,9 +315,13 @@ webdev-course-pethealt/
 
 <div align="center">
 
-[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Proyecto+Página+de+Perfil+%2815+min%29)](https://www.youtube.com/watch?v=example-link6)
+<a href="https://www.youtube.com/watch?v=cn9pf7FGflk">
+  <img src="https://img.youtube.com/vi/cn9pf7FGflk/hqdefault.jpg" width="640" height="360">
+</a><br>
 
-[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLlyUbtJ4AapkYjVOTc4eAF1c6uHh5vgxv&si=Z80QGo9zBfiEW07l)
+[![Ver Lección 6](https://placehold.co/640x360/0d1b2a/ffffff?text=+Lección+6:+Proyecto+Página+de+Perfil+%2815+min%29)](https://www.youtube.com/watch?v=cn9pf7FGflk)
+
+[![Ver en YouTube](https://img.shields.io/badge/▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cn9pf7FGflk)
 &nbsp;&nbsp;
 
 [![Practicar en JDoodle](https://img.shields.io/badge/💻%20Practicar%20en%20JDoodle-0A7C6E?style=for-the-badge&logo=java&logoColor=white)](https://www.jdoodle.com/start-coding)
