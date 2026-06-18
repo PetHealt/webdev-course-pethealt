@@ -292,11 +292,17 @@ webdev-course-pethealt/
 <details>
 
 <summary> Ver conclusiones </summary>
+
 - Fuentes del sistema: `font-family: Arial, sans-serif;`
+  
 - Google Fonts: importar con `<link>` en el `<head>` y usar con `font-family: 'Poppins', sans-serif;`
+  
 - Centrar texto: `text-align: center;`
+  
 - Agregar borde: `border: 2px solid black;`
+  
 - Espaciado interno: `padding: 10px;` — espacio dentro del elemento.
+  
 - Espaciado externo: `margin: 20px;` — espacio fuera del elemento.
 
 </details>
